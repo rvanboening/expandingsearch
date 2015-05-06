@@ -1,0 +1,22 @@
+.sb-search{
+  margin: 60px 0px 0px 60px
+}
+
+.sb-search-submit{
+  position: fixed;
+  width: 36px;
+  height: 36px;
+  border: none;
+  background-color: black;
+}
+
+.sb-search-input{
+  height: 30px;
+  width: 200px;
+  margin: 0px 0 0 36px;
+}
+
+.sb-icon-search{
+  height: 30px;
+  width: 200px;
+}
